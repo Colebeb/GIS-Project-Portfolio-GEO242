@@ -14,3 +14,6 @@ Cole Bewick
 
 - [Understanding map coordinates](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/MapCoordinateBasics/Copy_of_GEO242a_in_class_exercise_lat_lon_calc.ipynb))
 - [Georeference a 1960s Miami University campus map](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/MapCoordinateBasics/Georeferencing.ipynb))
+
+## Web Mapping
+- [Cholera Outbreak AGOL](https://www.arcgis.com/apps/mapviewer/index.html?webmap=335df7a696eb42359a0cd1a33e607ba2)
