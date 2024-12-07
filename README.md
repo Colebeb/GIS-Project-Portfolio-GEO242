@@ -15,6 +15,9 @@ Cole Bewick
 - [Understanding map coordinates](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/MapCoordinateBasics/Copy_of_GEO242a_in_class_exercise_lat_lon_calc.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/MapCoordinateBasics/Georeferencing.ipynb)
 
+## RasterAnalysis
+- [Spatial Analysis for Raster Data](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/RasterAnalysis/Spatial_Analysis_for_Raster_Data.ipynb)
+
 ## Spatial Analysis
 - [Working with US Census Data for Spatial Analysis](https://github.com/Colebeb/GIS-Project-Portfolio-GEO242/blob/main/spatial_analysis/week_12_assignment_template.ipynb)
 
